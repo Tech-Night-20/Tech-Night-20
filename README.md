@@ -1,4 +1,4 @@
-![GitHub Logo](logo.png)
+![GitHub Logo](/Tech-Night-20/logo.png)
 
 
 
