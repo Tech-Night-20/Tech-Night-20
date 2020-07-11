@@ -1,22 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![GitHub Logo](logo.png)
 
 
 - 🔭 I’m currently working on: Building a Real Time Chat App and hosting it globally.
