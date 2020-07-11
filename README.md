@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Tech-Night-20/Tech-Night-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech-Night-20/Tech-Night-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... pritamm343@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Suggest me a good series and I'll finish it in one go!
--->
